@@ -7190,6 +7190,20 @@
             "title": "LKs 网站推荐合集",
             "icon": "https://logo.clearbit.com/xiangjianan.github.io",
             "url": "https://xiangjianan.github.io/lks/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722044076016,
+            "title": "Pintree",
+            "icon": "https://logo.clearbit.com/pintree.050010.xyz",
+            "url": "https://pintree.050010.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722046862767,
+            "title": "Gemini Pro Chat",
+            "icon": "https://logo.clearbit.com/gemini.050010.xyz",
+            "url": "https://gemini.050010.xyz/"
           }
         ]
       },
